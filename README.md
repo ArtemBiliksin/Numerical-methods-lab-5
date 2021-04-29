@@ -4,17 +4,23 @@
 
 Численное решение задачи Коши y' = 30y(x-0.2)(x-0.7), y_0 = 0.1 методами Эйлера, Коши, трапеций.
 
+### Установка
+
+```
+#установка зависимостей
+pip install -r requirements.txt
+```
+
+### Запуск
+
+```
+python3 main.py
+```
+
 ### exe-файл
 
 ```
-# Устновка библиотек
-pip install numpy
-pip install pandas
-pip install matplotlib==3.2.2
-pip install pyinstaller 
-
-# Открыть директорию, в которой находятся файлы main.py и method.py, через командную строку/теминал. 
-# Выполнить команду
+# создание exe-файла
 pyinstaller main.py
 ```
 

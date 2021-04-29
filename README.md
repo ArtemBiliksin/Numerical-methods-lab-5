@@ -30,5 +30,7 @@ pyinstaller main.py
 
 В файле method.py в классе SolutionCauchyProblem можно сделать свое точное решение задачи Коши.
 
-### Иллюстрация к проекту
-![Иллюстрация к проекту]()
+### Иллюстрации к проекту
+![Иллюстрация к проекту](https://github.com/ArtemBiliksin/Numerical-methods-lab-5/blob/master/Pictures/image1.png)
+![Иллюстрация к проекту](https://github.com/ArtemBiliksin/Numerical-methods-lab-5/blob/master/Pictures/image2.png)
+![Иллюстрация к проекту](https://github.com/ArtemBiliksin/Numerical-methods-lab-5/blob/master/Pictures/image3.png)
